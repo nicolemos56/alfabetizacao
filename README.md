@@ -2,7 +2,7 @@
 Rabisco Mágico: Aprendendo Letras com a Visão Computacional
 
 
-"Rabisco Mágico" é um projeto em Python que utiliza a API Google Cloud Vision para auxiliar no processo de alfabetização de crianças. O sistema recebe uma imagem com o desenho de uma letra feito por uma criança e, através de análise de imagem, tenta reconhecer a letra que a criança está tentando escrever. O projeto então sugere a forma correta de escrita da letra, auxiliando a criança no aprendizado.
+"Rabisco Mágico" é um projeto em Python que utiliza a API key Google Cloud Vision para auxiliar no processo de alfabetização de crianças. O sistema recebe uma imagem com o desenho de uma letra feito por uma criança e, através de análise de imagem, tenta reconhecer a letra que a criança está tentando escrever. O projeto então sugere a forma correta de escrita da letra, auxiliando a criança no aprendizado.
 
 Permite o upload de imagens de letras desenhadas por crianças.
 Utiliza a API Google Cloud Vision para reconhecer padrões e identificar a letra.
@@ -16,6 +16,7 @@ E O script processará a imagem, tentará reconhecer a letra e exibirá a forma 
 Python
 Google Cloud Vision API
 Google Colab
+Google AI Studio Gemini
 
 O projeto está em desenvolvimento e diversas contribuições são bem-vindas, como:
 Aprimorar o algoritmo de reconhecimento de letras, especialmente para desenhos infantis.
